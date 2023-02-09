@@ -2,6 +2,6 @@
 prueba
 ##Descripcion
 prueba de github readme
-'''console
+```console
 index.html
-'''
+```
